@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Borja</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
+- 🌱 I’m currently learning **Frontend development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/JitaProg](https://github.com/JitaProg)
+
 - 💬 Ask me about **borja_blp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
