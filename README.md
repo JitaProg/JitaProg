@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JitaProg](https://github.com/JitaProg)
 
-- 💬 Ask me about **borja_blp@gmail.com**
+- 💬 Ask me about **borjablp2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
