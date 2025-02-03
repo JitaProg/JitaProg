@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Borja</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **Frontend development**
+- 📚 I’m currently learning Python and JavaScript
 
 - 👨‍💻 All of my projects are available at [https://github.com/JitaProg](https://github.com/JitaProg)
 
-- 💬 Ask me about **borjablp2@gmail.com**
+- 💬 Ask me about of about setting up servers on Windows and Linux.
+
+- 📫 Fot contact whith me borjablp2@gmail.com
+
+- 🤽🏽‍♂️ Playing water polo eventually
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
