@@ -24,10 +24,16 @@
       <ul>
         <li>Ability to create modern and attractive designs that enhance the user experience.</li>
       </ul>
+    <br>
+    <li>Version control tools:</li>
+      <ul>
+        <li>Using GitHub and Git as development tools.</li>
+      </ul>
 </ul>
 
 ## Connect with me 📭
-<a href="https://www.instagram.com/borjalozano__/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="" width="30px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/borja-lozano-porcel-3a860b332/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt="" width="100px"></a>
+<a href="https://www.instagram.com/borjalozano__/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="" width="30px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/borja-lozano-porcel-3a860b332/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt="" width="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://vercel.com/jitaprogs-projects"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel-text.png" alt="" width="90px"></a>
+
 
 
 
