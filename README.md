@@ -13,6 +13,8 @@
 
 - 🤽🏽‍♂️ Playing water polo eventually.
 
+## 🛠 Skills
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="" width="200px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
