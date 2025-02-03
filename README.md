@@ -14,8 +14,7 @@
 - 🤽🏽‍♂️ Playing water polo eventually.
 
 ## 🛠 Skills
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="" width="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="" width="50px">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="" width="50px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="" width="50px">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
