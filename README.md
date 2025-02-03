@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Borja</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h1 align="center">Hi, I'm Borja 🤙🏽</h1>
+<h3 align="center">💻A passionate frontend developer from Spain💻</h3>
 
+## 🧔🏽 About Me
 - 💼 I’m currently working on a <a href="https://funtasies-website.vercel.app">Funtasies Websites</a>.
 
 - 📚 I’m currently learning Python and JavaScript.
