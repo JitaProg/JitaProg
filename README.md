@@ -15,7 +15,7 @@
 
 ## 🛠 Skills
 <ul>
-    <li>Expert in HTML and CSS:</li>
+    <li>Skilled in HTML and CSS:</li>
         <ul>
       <li>Experience in creating responsive and accessible websites.</li>
         </ul>
